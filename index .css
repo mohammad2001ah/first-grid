@@ -37,8 +37,9 @@ img{
     color: white;
 }
 button{
+    
  background-color: #b87333;
- color: wheat;
+ color: rgb(238, 218, 182);
  border: none;
  border-radius: 15px;
  padding: 10px 20px;
@@ -51,3 +52,4 @@ button{
 button:hover{
     background-color:#3b1a06;
 }
+
